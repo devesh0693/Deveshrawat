@@ -44,7 +44,11 @@ I'm especially interested in expanding my knowledge in:
 
 ## 🌐 Connect with me:
 <div align="center">
-  <!-- Add your social links here -->
+  
+  rawatdevesh056@gmail.com 
+
+https://www.instagram.com/devxsh.jpeg
+
   <p style="color: #D600FF">// Neural links initializing...</p>
 </div>
 
